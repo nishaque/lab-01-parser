@@ -11,7 +11,6 @@ studVector::studVector(const std::string path) {
   }
   std::string jsonPath = path;
 
-  // Student s;
 
   std::ifstream file{jsonPath};
   if (!file) {

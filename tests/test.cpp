@@ -4,7 +4,7 @@
 #include "studVector.hpp"
 #include "student.hpp"
 
-TEST(stV, CorrectNullFieldT) {
+TEST(stV, CorrectNullFieldType) {
   Student s{json::parse(R"({
       "name": "Ivanov Petr",
       "group": "1",

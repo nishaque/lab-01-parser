@@ -11,7 +11,6 @@
 #include <string>
 #include <typeindex>
 #include <vector>
-
 using nlohmann::json;
 
 struct Student {

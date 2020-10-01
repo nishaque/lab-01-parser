@@ -62,7 +62,6 @@ target_link_libraries(tests PUBLIC nlohmann_json::nlohmann_json GTest::main)
 #target_link_libraries(tests GTest::main template)
 
 
-
 enable_testing()
 add_test(NAME unit_tests COMMAND tests)
 

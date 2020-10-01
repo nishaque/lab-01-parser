@@ -6,8 +6,8 @@
 #define INCLUDE_STUDVECTOR_HPP_
 
 #include "student.hpp"
-#include <string>
 #include <vector>
+#include <string>
 struct studVector {
   std::vector<Student> st;
   explicit studVector(const std::string path);
