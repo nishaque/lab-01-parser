@@ -44,10 +44,10 @@ RM = "/Users/nishaque/Library/Application Support/JetBrains/Toolbox/apps/CLion/c
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/nishaque/Desktop/33/С++/lab-01-parser
+CMAKE_SOURCE_DIR = /Users/nishaque/Desktop/33/С++/lab-001-parser
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -76,14 +76,14 @@ preinstall:
 CMakeFiles/tests.dir/all:
 	$(MAKE) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/depend
 	$(MAKE) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles --progress-num=4,5,6,7 "Built target tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles --progress-num=4,5,6,7 "Built target tests"
 .PHONY : CMakeFiles/tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/tests.dir/rule
 
 # Convenience name for target.
@@ -103,14 +103,14 @@ CMakeFiles/tests.dir/clean:
 CMakeFiles/template.dir/all:
 	$(MAKE) -f CMakeFiles/template.dir/build.make CMakeFiles/template.dir/depend
 	$(MAKE) -f CMakeFiles/template.dir/build.make CMakeFiles/template.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target template"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target template"
 .PHONY : CMakeFiles/template.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/template.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/template.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/template.dir/rule
 
 # Convenience name for target.

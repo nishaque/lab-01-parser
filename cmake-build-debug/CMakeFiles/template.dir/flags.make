@@ -6,5 +6,5 @@ CXX_FLAGS =  -pedantic -Werror -Wall -Wextra -Wno-unused-command-line-argument -
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/nishaque/Desktop/33/С++/lab-01-parser/include -isystem /Users/nishaque/.hunter/_Base/9a3594a/715fc93/c351cc1/Install/include 
+CXX_INCLUDES = -I/Users/nishaque/Desktop/33/С++/lab-001-parser/include -isystem /Users/nishaque/.hunter/_Base/9a3594a/715fc93/c351cc1/Install/include 
 

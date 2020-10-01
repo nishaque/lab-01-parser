@@ -43,10 +43,10 @@ RM = "/Users/nishaque/Library/Application Support/JetBrains/Toolbox/apps/CLion/c
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/nishaque/Desktop/33/С++/lab-01-parser
+CMAKE_SOURCE_DIR = /Users/nishaque/Desktop/33/С++/lab-001-parser
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/tests.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/tests.dir/flags.make
 
 CMakeFiles/tests.dir/tests/test.cpp.o: CMakeFiles/tests.dir/flags.make
 CMakeFiles/tests.dir/tests/test.cpp.o: ../tests/test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tests.dir/tests/test.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tests.dir/tests/test.cpp.o -c /Users/nishaque/Desktop/33/С++/lab-01-parser/tests/test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tests.dir/tests/test.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tests.dir/tests/test.cpp.o -c /Users/nishaque/Desktop/33/С++/lab-001-parser/tests/test.cpp
 
 CMakeFiles/tests.dir/tests/test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests.dir/tests/test.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nishaque/Desktop/33/С++/lab-01-parser/tests/test.cpp > CMakeFiles/tests.dir/tests/test.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nishaque/Desktop/33/С++/lab-001-parser/tests/test.cpp > CMakeFiles/tests.dir/tests/test.cpp.i
 
 CMakeFiles/tests.dir/tests/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests.dir/tests/test.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nishaque/Desktop/33/С++/lab-01-parser/tests/test.cpp -o CMakeFiles/tests.dir/tests/test.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nishaque/Desktop/33/С++/lab-001-parser/tests/test.cpp -o CMakeFiles/tests.dir/tests/test.cpp.s
 
 CMakeFiles/tests.dir/sources/student.cpp.o: CMakeFiles/tests.dir/flags.make
 CMakeFiles/tests.dir/sources/student.cpp.o: ../sources/student.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tests.dir/sources/student.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tests.dir/sources/student.cpp.o -c /Users/nishaque/Desktop/33/С++/lab-01-parser/sources/student.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tests.dir/sources/student.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tests.dir/sources/student.cpp.o -c /Users/nishaque/Desktop/33/С++/lab-001-parser/sources/student.cpp
 
 CMakeFiles/tests.dir/sources/student.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests.dir/sources/student.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nishaque/Desktop/33/С++/lab-01-parser/sources/student.cpp > CMakeFiles/tests.dir/sources/student.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nishaque/Desktop/33/С++/lab-001-parser/sources/student.cpp > CMakeFiles/tests.dir/sources/student.cpp.i
 
 CMakeFiles/tests.dir/sources/student.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests.dir/sources/student.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nishaque/Desktop/33/С++/lab-01-parser/sources/student.cpp -o CMakeFiles/tests.dir/sources/student.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nishaque/Desktop/33/С++/lab-001-parser/sources/student.cpp -o CMakeFiles/tests.dir/sources/student.cpp.s
 
 CMakeFiles/tests.dir/sources/studVector.cpp.o: CMakeFiles/tests.dir/flags.make
 CMakeFiles/tests.dir/sources/studVector.cpp.o: ../sources/studVector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tests.dir/sources/studVector.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tests.dir/sources/studVector.cpp.o -c /Users/nishaque/Desktop/33/С++/lab-01-parser/sources/studVector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tests.dir/sources/studVector.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/tests.dir/sources/studVector.cpp.o -c /Users/nishaque/Desktop/33/С++/lab-001-parser/sources/studVector.cpp
 
 CMakeFiles/tests.dir/sources/studVector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests.dir/sources/studVector.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nishaque/Desktop/33/С++/lab-01-parser/sources/studVector.cpp > CMakeFiles/tests.dir/sources/studVector.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nishaque/Desktop/33/С++/lab-001-parser/sources/studVector.cpp > CMakeFiles/tests.dir/sources/studVector.cpp.i
 
 CMakeFiles/tests.dir/sources/studVector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests.dir/sources/studVector.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nishaque/Desktop/33/С++/lab-01-parser/sources/studVector.cpp -o CMakeFiles/tests.dir/sources/studVector.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nishaque/Desktop/33/С++/lab-001-parser/sources/studVector.cpp -o CMakeFiles/tests.dir/sources/studVector.cpp.s
 
 # Object files for target tests
 tests_OBJECTS = \
@@ -112,7 +112,7 @@ tests: CMakeFiles/tests.dir/build.make
 tests: /Users/nishaque/.hunter/_Base/9a3594a/715fc93/c351cc1/Install/lib/libgtest_maind.a
 tests: /Users/nishaque/.hunter/_Base/9a3594a/715fc93/c351cc1/Install/lib/libgtestd.a
 tests: CMakeFiles/tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable tests"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -125,6 +125,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/nishaque/Desktop/33/С++/lab-01-parser /Users/nishaque/Desktop/33/С++/lab-01-parser /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug /Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/nishaque/Desktop/33/С++/lab-001-parser /Users/nishaque/Desktop/33/С++/lab-001-parser /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug /Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

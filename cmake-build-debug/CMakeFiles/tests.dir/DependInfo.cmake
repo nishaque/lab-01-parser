@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/nishaque/Desktop/33/С++/lab-01-parser/sources/studVector.cpp" "/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles/tests.dir/sources/studVector.cpp.o"
-  "/Users/nishaque/Desktop/33/С++/lab-01-parser/sources/student.cpp" "/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles/tests.dir/sources/student.cpp.o"
-  "/Users/nishaque/Desktop/33/С++/lab-01-parser/tests/test.cpp" "/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/CMakeFiles/tests.dir/tests/test.cpp.o"
+  "/Users/nishaque/Desktop/33/С++/lab-001-parser/sources/studVector.cpp" "/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles/tests.dir/sources/studVector.cpp.o"
+  "/Users/nishaque/Desktop/33/С++/lab-001-parser/sources/student.cpp" "/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles/tests.dir/sources/student.cpp.o"
+  "/Users/nishaque/Desktop/33/С++/lab-001-parser/tests/test.cpp" "/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/CMakeFiles/tests.dir/tests/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

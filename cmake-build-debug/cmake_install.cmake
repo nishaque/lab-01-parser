@@ -1,4 +1,4 @@
-# Install script for directory: /Users/nishaque/Desktop/33/С++/lab-01-parser
+# Install script for directory: /Users/nishaque/Desktop/33/С++/lab-001-parser
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/nishaque/Desktop/33/С++/lab-01-parser/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/nishaque/Desktop/33/С++/lab-001-parser/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
